@@ -18,5 +18,5 @@ sections:
             - Objektiv
             - Nch eins
     design:
-      columns: 2
+      columns: "2"
 ---

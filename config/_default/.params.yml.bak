@@ -5,7 +5,7 @@
 
 # Appearance
 appearance:
-  mode: system 
+  mode: light
   color: indigo
 
 # SEO
@@ -34,22 +34,22 @@ header:
     align: 'center'
     fixed_to_top: true
     logo:
-      text: 'bewo TV'
+      text: ''
       # Logo filename in `assets/media/` folder
-      #filename: 'logo.svg'
+      filename: 'logo.svg'
     button:
-      enable: false 
+      enable: true
       text: 'Get Started'
       url: 'https://hugoblox.com/templates/'
-    show_search: false 
+    show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '{year} bewo TV GmbH'
+    notice: '© {year} My Company'
 
 # Localization
 locale:
-  date_format: '02.01.2006'
-  time_format: '15:04'
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'

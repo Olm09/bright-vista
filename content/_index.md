@@ -34,7 +34,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: landing-bg.jpg
           filters:
             brightness: 0.5
           size: cover

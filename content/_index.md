@@ -65,7 +65,7 @@ sections:
           image: build-website.png
           button:
             text: Zum Blog 
-            url: /blog
+            url: blog/
   - block: cta-card
     content:
       title: Fernsehen machen. Mit Profis. 

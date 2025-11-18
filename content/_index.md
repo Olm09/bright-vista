@@ -14,8 +14,8 @@ sections:
       text: Fernsehen machen. Mit Profis. 
       primary_action:
         text: Jetzt anfragen 
-        url:  
-        icon: mail
+        url: https://bewotv.de 
+        icon: envelope
     #  secondary_action:
     #    text: Read the docs
     #    url: https://docs.hugoblox.com

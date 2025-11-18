@@ -50,7 +50,7 @@ sections:
           icon: tv 
           description: Wir denken, schreiben und erzählen deine Geschichte. Für jedes Format und jede Länge. 
         - name: EB Teams
-          icon: video 
+          icon: video
           description: Viele Fernsehredaktionen schätzen die zuverlässige Arbeit unserer EB Teams sowohl handwerklich wie technisch bei unzähligen EB-Einsätzen und Auftragsproduktionen.
         - name: Postproduktion
           icon: scissors

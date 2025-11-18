@@ -12,8 +12,7 @@ sections:
             - 2x Sony PDW-680 (XDCam)
             - Sony PDW-850 (XDCam)
             - Sony PXW-Z450 (XDCam, XAVC-I, 4K/UHD)
-        title: Noch mehr
-        text: |
+            <br>
             ### Objektive
             - Objektiv
             - Nch eins

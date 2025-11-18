@@ -62,7 +62,7 @@ sections:
         - title: Schau dir unsere letzten Produktionen an! 
           text: Im Blog erfährst du, was wir aktuell so drehen. 
           # Upload image to `assets/media/` and reference the filename here
-          image: build-website.png
+          image: cam.jpg
           button:
             text: Zum Blog 
             url: blog/

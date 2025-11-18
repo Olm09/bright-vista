@@ -14,5 +14,6 @@ sections:
             Bei Anfragen zu einem EB Team / Kamerateam für die Regionen Freiburg, Schwarzwald, Bodensee oder auch überregional kontaktieren Sie uns bitte direkt  telefonisch oder per  Mail. 
 
     background:
-        image: landing-bg.jpg 
+        image:
+            filename: landing-bg.jpg 
 ---

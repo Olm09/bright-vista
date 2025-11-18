@@ -6,23 +6,15 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Dienstleistungen 
+  - name: Features
     url: /#features
     weight: 20
-  - name: Über uns
-    url: about/
+  - name: Solutions
+    url: /#solutions
     weight: 30
-  - name: Technik
-    url: technik/
+  - name: Resources
     weight: 40
-  - name: Ausbildung
-    url: ausbildung/
-    weight: 50
-  - name: Aktuelles
+    hasChildren: true
+  - parent: Resources
+    name: Blog
     url: blog/
-    weight: 60
-      # - name: Resources
-      #weight: 40
-      #hasChildren: true
-      #name: Blog
-      #url: blog/
